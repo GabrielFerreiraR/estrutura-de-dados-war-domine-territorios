@@ -302,6 +302,6 @@ int main(void) {
     } while (opcao != 0 && !venceu);
 
     liberarMemoria(mapa);
-
+    
     return 0;
 }
